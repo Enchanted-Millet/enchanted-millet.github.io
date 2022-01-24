@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on XSpace</title>
+    <link>https://enchanted-millet.github.io/posts/</link>
+    <description>Recent content in Posts on XSpace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 23:13:25 -0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Oct 2021 23:13:25 -0700</lastBuildDate><atom:link href="https://enchanted-millet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>http://example.org/posts/hello-hugo/</link>
+      <link>https://enchanted-millet.github.io/posts/hello-hugo/</link>
       <pubDate>Sun, 31 Oct 2021 23:13:25 -0700</pubDate>
       
-      <guid>http://example.org/posts/hello-hugo/</guid>
+      <guid>https://enchanted-millet.github.io/posts/hello-hugo/</guid>
       <description>前言 很久以前，我曾用过 Hexo 一段时间，整体感觉其实还不错，不过自己太过懒惰，自从18年后就没再更新过。最近打算学些新技术，顺带回顾一下以前那些早已遗忘的知识，希望自己可以重新捡起来。走在技术这条路真的是不可懒惰啊，不进则退。
 按照国际惯例，首篇依然献给 Hello World 。
 Hello Hugo
